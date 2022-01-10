@@ -1,4 +1,5 @@
-// Implements a dictionary's functionality
+// Reads each individual word from a dictionary text file, sorts the words by letter and inputs them into a hash table that can be referred to 
+// by the "speller.c" spell checking algorithm
 
 #include <stdbool.h>
 #include <stdio.h>
