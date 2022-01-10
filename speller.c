@@ -1,3 +1,6 @@
+//Implements a spell-checking algorithm that uses a dictionary in the form of a hash table data structure created by "dictionary.c" 
+//Can spell check entire movie scripts in seconds, returning spell-check time and spelling errors
+
 #include <ctype.h>
 #include <stdio.h>
 #include <sys/resource.h>
