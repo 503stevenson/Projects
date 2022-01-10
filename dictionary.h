@@ -1,3 +1,5 @@
+// Header file for spell-checking algorithm using "speller.c" and "dictionary.c"
+
 #ifndef DICTIONARY_H
 #define DICTIONARY_H
 
