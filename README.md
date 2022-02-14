@@ -1,1 +1,2 @@
-# Spell-Check Algorithm (C)
+# SPELL-R (C)
+
